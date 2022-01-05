@@ -7,5 +7,5 @@
 
 
 ## What happens if I don't receive a COVID test in the 48 hours?
-If in 48 you dont have the results or are having a hard time finding a lab please send an email explaining your situation in detail at **resultadosviajeros@salud.pr.gov**
+If in 48 you dont have the results or are having a hard time finding a lab please send an email explaining your situation in detail at **mailto:resultadosviajeros@salud.pr.gov**
 
