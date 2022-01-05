@@ -1,4 +1,4 @@
-# Laboratories For COVID Testing
+#COVID Testing
 [![N|Solid](https://www.travelsafe.pr.gov/images/Logo_SALUD.svg)](https://www.travelsafe.pr.gov/)
 
 - ## Nationwide Testing Site Locator
