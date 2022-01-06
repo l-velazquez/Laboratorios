@@ -8,7 +8,7 @@
    
     [![SaludPR](https://pbs.twimg.com/media/FIHUoFQWUAoUMr7?format=jpg&name=large)](https://twitter.com/desaludpr/status/1477716324046422019)
 - ## Lunes a viernes (Monday to Friday)
-    ### San Juan
+    San Juan
     
     (**Español**) en el Centro de Toma de Muestras COVID-19 frente al Departamento de Salud, detrás del estacionamiento del Tren Urbano, de 8:00 a.m. a 2:00 p.m. (No realizarán el jueves, 6 de enero, por celebrarse el Día de Reyes)
 
