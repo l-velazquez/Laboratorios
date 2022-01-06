@@ -4,7 +4,8 @@
 
 - ## [ Nationwide Testing Site Locator](https://www.arcgis.com/apps/webappviewer/index.html?id=2ec47819f57c40598a4eaf45bf9e0d16)
     Mapa donde puede buscar laborartorios para pruebas de COVID / Map to search para Labs for COVID testing
-- ## Department of Health of Puerto Rico
+- ## Department of Health of Puerto Rico  [@desaludpr](https://twitter.com/desaludpr)
+   
     [![SaludPR](https://pbs.twimg.com/media/FIHUoFQWUAoUMr7?format=jpg&name=large)](https://twitter.com/desaludpr/status/1477716324046422019)
 - ## Lunes a viernes (Monday to Friday)
     ### San Juan
@@ -98,4 +99,4 @@ Mayagüez*: Palacio de Recreación y Deportes de 8:00 a.m. a 1:00 p.m.
 
 
 ## What happens if I don't receive a COVID test in the 48 hours?
-If in 48 you dont have the results or are having a hard time finding a lab please send an email explaining your situation in detail at **resultadosviajeros@salud.pr.gov**
+If in 48 hours you dont have the results or are having a hard time finding a lab please send an email explaining your situation in detail at [resultadosviajeros@salud.pr.gov](mailto:resultadosviajeros@salud.pr.gov)
