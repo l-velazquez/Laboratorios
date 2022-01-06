@@ -3,7 +3,7 @@
 
 
 - ## [ Nationwide Testing Site Locator](https://www.arcgis.com/apps/webappviewer/index.html?id=2ec47819f57c40598a4eaf45bf9e0d16)
-    Mapa donde puede buscar laborartorios para pruebas de COVID / Map to search para Labs for COVID testing
+    Mapa donde puede buscar laborartorios para pruebas de COVID / Map to search labs for COVID testing
 - ## Department of Health of Puerto Rico  [@desaludpr](https://twitter.com/desaludpr)
    
     [![SaludPR](https://pbs.twimg.com/media/FIHUoFQWUAoUMr7?format=jpg&name=large)](https://twitter.com/desaludpr/status/1477716324046422019)
